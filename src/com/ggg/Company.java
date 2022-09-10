@@ -8,6 +8,7 @@ public class Company {
 		e.empId();
 		Employee v=new Employee();
 		v.empPhone();
+		System.out.println("empId");
 	}
 
 }
